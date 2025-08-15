@@ -1,0 +1,7 @@
+html {
+  .scrollable-table {
+    overflow-x: auto;
+    white-space: nowrap;
+    display: block;
+  }
+}
